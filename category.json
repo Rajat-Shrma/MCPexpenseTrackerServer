@@ -1,0 +1,149 @@
+{
+  "description": "Expense categories and subcategories for personal expense tracking. select one category name and its subcategory for each expense added.",
+  "categories": [
+    {
+      "name": "Food",
+      "subcategories": [
+        "Groceries",
+        "Vegetables",
+        "Fruits",
+        "Milk & Dairy",
+        "Snacks",
+        "Street Food",
+        "Restaurant",
+        "Cafe",
+        "Online Food Delivery"
+      ]
+    },
+    {
+      "name": "Transport",
+      "subcategories": [
+        "Bus",
+        "Metro",
+        "Train",
+        "Auto",
+        "Taxi",
+        "Fuel",
+        "Parking",
+        "Vehicle Maintenance"
+      ]
+    },
+    {
+      "name": "Housing",
+      "subcategories": [
+        "Rent",
+        "Electricity Bill",
+        "Water Bill",
+        "Gas",
+        "Internet",
+        "Maintenance",
+        "House Repairs"
+      ]
+    },
+    {
+      "name": "Education",
+      "subcategories": [
+        "School Fees",
+        "College Fees",
+        "Coaching",
+        "Online Courses",
+        "Books",
+        "Stationery",
+        "Exam Fees"
+      ]
+    },
+    {
+      "name": "Health",
+      "subcategories": [
+        "Doctor Consultation",
+        "Medicines",
+        "Medical Tests",
+        "Hospital Charges",
+        "Health Insurance",
+        "Mental Health"
+      ]
+    },
+    {
+      "name": "Personal Care",
+      "subcategories": [
+        "Haircut",
+        "Skincare",
+        "Cosmetics",
+        "Salon",
+        "Gym",
+        "Fitness Equipment"
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "subcategories": [
+        "Movies",
+        "OTT Subscriptions",
+        "Games",
+        "Music",
+        "Events",
+        "Hobbies"
+      ]
+    },
+    {
+      "name": "Shopping",
+      "subcategories": [
+        "Clothing",
+        "Footwear",
+        "Accessories",
+        "Electronics",
+        "Online Shopping",
+        "Gifts"
+      ]
+    },
+    {
+      "name": "Travel",
+      "subcategories": [
+        "Flights",
+        "Hotels",
+        "Local Transport",
+        "Sightseeing",
+        "Food During Travel",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "name": "Bills & Subscriptions",
+      "subcategories": [
+        "Mobile Recharge",
+        "Postpaid Bill",
+        "Internet Bill",
+        "Software Subscriptions",
+        "Cloud Services"
+      ]
+    },
+    {
+      "name": "Finance",
+      "subcategories": [
+        "Loan EMI",
+        "Credit Card Payment",
+        "Savings",
+        "Investments",
+        "Taxes"
+      ]
+    },
+    {
+      "name": "Family & Social",
+      "subcategories": [
+        "Family Support",
+        "Donations",
+        "Religious Offerings",
+        "Functions",
+        "Festivals"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "subcategories": [
+        "Emergency",
+        "Unplanned Expense",
+        "Other"
+      ]
+    }
+  ]
+}
