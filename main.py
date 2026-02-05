@@ -200,3 +200,6 @@ def category_selection():
     """ Returns the expense category and subcategory from the category.json file each expense should have a category and a subcategory for proper tabulation"""
     with open(CATEGORIES, 'r', encoding='utf-8') as f:
         return f.read()
+    
+if __name__ == '__main__':
+    mcp.run(transport='streamable-http', host='0.0.0.0', port = 8000)
